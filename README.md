@@ -62,11 +62,3 @@ Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o 
 
 <br>
 
-## 📈 Status do Projeto
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=by-BC&repo=orbita&theme=radical" alt="Repo Card" />
-
-<br>
-
-<div align="center">
-  <sub>Feito com 🩵 e muito código!</sub>
-</div>
